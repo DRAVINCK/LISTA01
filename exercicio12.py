@@ -12,4 +12,5 @@ media = (valor1 + valor2) / 2
 
 print(f"A média entre {valor1} e {valor2} é {media}")
 
-#1 pra poder usar numeros quebrado que nao quebrar o codigo e tambem o input serve para ler a entrada do usuario
+#1 para ler o input do usuario como numero com casas decimais
+#2 ocorre a concatenação que seria juntar as strings ao inves de somar
