@@ -8,10 +8,8 @@
 valor1 = float(input("Digite o primeiro valor decimal: "))
 valor2 = float(input("Digite o segundo valor decimal: "))
 
-# Calcula a média
 media = (valor1 + valor2) / 2
 
-# Exibe a média
 print(f"A média entre {valor1} e {valor2} é {media}")
 
 #1 pra poder usar numeros quebrado que nao quebrar o codigo e tambem o input serve para ler a entrada do usuario
